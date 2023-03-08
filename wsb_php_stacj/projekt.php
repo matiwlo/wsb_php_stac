@@ -25,5 +25,3 @@ echo &oct;
 &hex = 0xA11;
 echo &hex;
 ?>
-
-
