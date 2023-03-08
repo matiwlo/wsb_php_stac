@@ -1,0 +1,13 @@
+    1  ls-
+    2  ls -la
+    3  c
+    4  c-clear
+    5  alias c-clear
+    6  pwd
+    7  clear
+    8  pwd
+    9  clear
+   10  git clone https://github.com/matiwlo/wsb_php_stacj.git
+   11  ls
+   12  cd wsb_php_stacj
+   13  history > plikhistoria
