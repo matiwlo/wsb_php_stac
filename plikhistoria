@@ -1,13 +1,21 @@
-    1  ls-
-    2  ls -la
-    3  c
-    4  c-clear
-    5  alias c-clear
-    6  pwd
-    7  clear
-    8  pwd
-    9  clear
-   10  git clone https://github.com/matiwlo/wsb_php_stacj.git
-   11  ls
-   12  cd wsb_php_stacj
-   13  history > plikhistoria
+    1  git clone https://github.com/matiwlo/wsb_php_stac.git
+    2  pwd
+    3  ls
+    4  cd wsb_php_stac
+    5  git clone https://github.com/matiwlo/wsb_php_stac.git
+    6  git status
+    7  git commit
+    8  git config -- global user.email "mateuszczypnie@opoczta.pl"
+    9  git config --global user.email "mateuszczypnie@opoczta.pl"
+   10  git config --global user.name "matiwlo"
+   11  git status
+   12  git commit
+   13  git commit
+   14  git add *
+   15  git commit
+   16  cd wsb_php_stac
+   17  git status
+   18  git push origin main
+   19  git push origin main
+   20  git push origin main
+   21  history > plikhistoria
